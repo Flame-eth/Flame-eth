@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to work on **Full Stack and Web3 projects**
 
-- 👨‍💻 All of my projects are available at [https://flame-eth-web.vercel.app/](https://flame-eth-web.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://flame-eth-web.vercel.app/](https://flame-eth-web.me/)
 
 - 💬 Ask me about **DeFi, Web3, NFTs, Solidity, JavaScript, React, Node.js**
 
