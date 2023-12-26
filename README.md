@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/flame_eth_" target="blank"><img src="https://img.shields.io/twitter/follow/flame_eth_?logo=twitter&style=for-the-badge" alt="flame_eth_" /></a> </p>
 
-- 🔭 I’m have worked as **Software Developer, Full Stack Developer, Blockchain Engineer**
+- 🔭 I’m have worked as **Software Developer, Lead Full Stack Developer, Blockchain Engineer**
 
 - 👯 I’m looking to work on **Full Stack and Web3 projects**
 
 - 👨‍💻 All of my projects are available at [https://flame-eth.me/](https://flame-eth.me/)
 
-- 💬 Ask me about **DeFi, Web3, NFTs, Solidity, JavaScript, React, Node.js**
+- 💬 Ask me about **DeFi, Web3, NFTs, Solidity, JavaScript, TypeScript, React.js, Next.js, Node.js, Nest.js**
 
 - 📫 How to reach me **theflamepen@gmail.com**
 
